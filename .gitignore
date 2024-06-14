@@ -3,7 +3,6 @@
 *~
 *.diff
 *.patch
-/*.html
 .DS_Store
 .bower.json
 .sizecache.json
